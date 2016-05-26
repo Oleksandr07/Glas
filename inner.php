@@ -7,7 +7,7 @@
 				<li>
 					<a href="">The company</a>
 					<ul>
-						<li><a href="">Management team</a></li>
+						<li><a href="inner.php">Management team</a></li>
 						<li><a href="">Values</a></li>
 					</ul>
 				</li>

@@ -1,7 +1,7 @@
 <header>
 	<div class="container">
 		<div class="logo">
-			<a href="/">Glas financial</a>
+			<a href="index.php">Glas financial</a>
 		</div>
 		<div class="navbar">
 			<div class="icon-bar"></div>
